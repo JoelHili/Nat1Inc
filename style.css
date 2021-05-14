@@ -1,0 +1,54 @@
+/* Change 1 */
+.thunk-page-top-header{
+	opacity:75%;
+}
+
+#container{
+	opacity:100%;
+}
+
+/* Change 2 */
+.left_bottom{
+	margin-bottom:50px;
+}
+
+/* Change 3 */
+#wp-live-chat-by-3CX{
+	margin-bottom:50px;
+}
+
+/* Change 4 */
+.site-description{
+	font-family:"monospace";
+	font-style:bold;
+}
+
+/* Change 5 */
+.product-name{
+	color:black;
+}
+
+/* Change 6 */
+.thunk-footer{
+	background-color:lightgray;
+}
+
+/* Change 7 */
+.mo_btn-google{
+	background-color:darkgray;
+}
+
+/* Change 8 */
+.woocommerce-Input{
+	height:35px;
+}
+
+/* Change 9 */
+.woocommerce-MyAccount-navigation{
+	background-color:lightpink;
+}
+
+/* Change 10 */
+.woocommerce-MyAccount-navigation-link--customer-logout{
+	color:red;
+}
